@@ -1,0 +1,49 @@
+.footercontainer {
+    background-color: #2D2D2D;
+    justify-content: center;
+    display: flex;
+    gap: 100px;
+    padding: 35 px;
+}
+
+.footercontainer a {
+    color: aliceblue;
+}
+
+.footercontainer p {
+    color: aliceblue;
+}
+
+.footercontainer h3 {
+    color: aliceblue;
+}
+
+.footerinhoud {
+    padding: 10px;
+    gap: 10px;
+}
+
+.footerinhoud li {
+    padding: 10px;
+}
+
+.footerinhoud p {
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.socialemedia li {
+    display: inline-block;
+    font-size: 30px;
+}
+
+.copyright {
+    background-color: #2D2D2D;
+    color: aliceblue;
+    display: flex;
+    text-align: center;
+    padding: 20px;
+}
