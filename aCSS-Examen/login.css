@@ -9,11 +9,10 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url(../foto/Background-registreer.png);
 }
 
 .form-container {
-    background: #007BFF;
+    background: #7101cd;
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
@@ -51,7 +50,7 @@
 }
 
 .inputgroep input:focus {
-    border-color: #007BFF;
+    border-color: #7101cd;
     outline: none;
 }
 
@@ -67,7 +66,7 @@
 .submit {
     width: 100%;
     padding: 12px;
-    background-color: #007BFF;
+    background-color: #7101cd;
     color: white;
     border: none;
     border-radius: 5px;
@@ -77,7 +76,7 @@
 }
 
 .submit:hover {
-    background-color: #0056b3;
+    background-color: #370361;
 }
 
 .login-link {
@@ -86,7 +85,7 @@
 }
 
 .loginknop a {
-    color: #007BFF;
+    color: #7101cd;
     text-decoration: none;
 }
 

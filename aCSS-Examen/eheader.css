@@ -19,7 +19,7 @@
 .navbar ul {
     display: flex;
     list-style-type: none;
-    gap: 40px;
+    gap: 60px;
     margin-right: 40px;
 }
 
