@@ -30,21 +30,6 @@
     transition: .4s ease;
 }
 
-.wrapper:hover {
-    width: 490px;
-}
-
-input {
-    width: 100%;
-    height: 100%;
-    padding-left: 30px;
-    color: #202b8b;
-    font-size: 15px;
-    border: none;
-    outline: none;
-    background: transparent;
-}
-
 .navbar ul {
     list-style-type: none;
     display: flex;
@@ -57,7 +42,7 @@ input {
     text-decoration: none;
     font-weight: bold;
     text-decoration: underline solid transparent;
-    transition: text-decoration .5s ease-out;
+    transition: .5s ease-out;
 }
 
 .navbar a:hover {

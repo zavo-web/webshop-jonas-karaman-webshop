@@ -16,6 +16,11 @@
     background-color: rgb(112, 35, 185);
 }
 
+.navicon:hover {
+    filter: invert(100);
+    transition: .4s ease;
+}
+
 .navbar ul {
     display: flex;
     list-style-type: none;
