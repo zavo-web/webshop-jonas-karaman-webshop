@@ -36,7 +36,7 @@ ul {
 }
 
 .socialemedia li {
-    display: flex;
+    display: inline-block;
     font-size: 30px;
 }
 
