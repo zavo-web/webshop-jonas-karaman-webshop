@@ -8,16 +8,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-}
-
-.form-container {
-    background: #7101cd;
-    padding: 30px;
-    border-radius: 8px;
-    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
-    width: 350px;
-    animation: 0.5s ease-in-out;
 }
 
 .titelregistreer {
@@ -31,14 +21,6 @@
     position: relative;
 }
 
-.inputgroep i {
-    position: absolute;
-    left: 10px;
-    top: 50%;
-    transform: translateY(-50%);
-    color: #999;
-}
-
 .inputgroep input {
     width: 100%;
     padding: 10px 40px;
@@ -49,18 +31,9 @@
     box-sizing: border-box;
 }
 
-.inputgroep input:focus {
-    border-color: #7101cd;
-    outline: none;
-}
-
 .checkbox-group {
     display: flex;
     align-items: center;
-}
-
-.checkbox-group input {
-    margin-right: 10px;
 }
 
 .submit {
@@ -72,7 +45,7 @@
     border-radius: 5px;
     font-size: 16px;
     cursor: pointer;
-    transition: background-color 0.3s;
+    transition: 0.3s;
 }
 
 .submit:hover {
